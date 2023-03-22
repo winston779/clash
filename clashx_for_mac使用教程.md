@@ -12,3 +12,4 @@
 
 然后在启动台中即可找到 ClashX ，点击打开即可。
 
+![image](https://raw.githubusercontent.com/winston779/clash/main/imgs/clashx_install.jpg)
