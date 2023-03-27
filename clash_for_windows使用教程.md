@@ -1,5 +1,5 @@
 
-# clash_for_windows使用教程
+# clash for windows使用教程
 
 ## 下载与安装
 
