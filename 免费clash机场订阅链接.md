@@ -21,4 +21,6 @@
 
 解锁流媒体：奈飞Netflix(奈飞等流媒体账号合租平台推荐)、动画疯、迪士尼+、Hulu、HBO-Go、HBO MAX、TVB、HKTV、ViuTV、BBC iPlayer、AbemaTV、DMM、Nicovideo、DAZN、Amazon Prime Video、FOX 等。
 
-> 免费用户5天不用不签到，流量会被自动清空，清空后可再签到获取流量
+* 免费节点有流量限制，且延迟较高，推荐有条件尽量购买套餐。
+* 免费节点需要每天签到增加流量。
+* 免费用户5天不用不签到，流量会被自动清空，清空后可再签到获取流量
