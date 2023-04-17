@@ -3,7 +3,49 @@
 
 每年都会有新的机场出现，也会有老的机场跑路，想找一个长期、稳定、价格合理的机场并不是一件容易的事，下面推荐几个本人用过还不错，且都已经稳定运行多年的机场（排名不分先后）：
 
-## 1. v2free
+## 1. wgetcloud
+
+最新地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=3m4U)
+
+### wgetcloud机场简介
+
+WgetCloud （原 GaCloud） 机场是2023年值得入手的精品机场服务，多线BGP中转+双程CN2优质线路，独享带宽，并且在香港有自己的机房，可以保证高峰期稳定可用。WgetCloud 运营人员从事机场行业已有3年多，技术方面还是无需担忧的。WgetCloud 团队主要成员也都在海外，安全无虞。
+
+WgetCloud 机场使用的是 Shadowsocks 协议，最近新增了SSR、V2ray、Trojan协议的支持，各平台软件对SS协议支持都十分友好，并且支持所有主流的代理订阅格式——Clash、Shadowrocket、Quantumult X、Surge 4。机场对线路节点采取分组制，单组用户人数满400后便不会增加人数，加上对节点采取了动态限速，有效保证线路稳定行。
+
+新用户购买 WgetCloud 即享8折体验，注册成功自动领取，可前往福利中心查看优惠券。
+
+首次购买套餐新用户，还可额外领取一张7天的奈飞体验卡。
+
+付款方式支持支付宝，微信、USDT 加密货币。银联支付方式尚未开放。
+
+### 套餐列表
+
+基础专线
+
+<ul>
+<li>月付：￥49/月，120G流量/月。</li>
+<li>季付：￥147/季，180G流量/月。</li>
+<li>年付：￥588/年，240G流量/月。</li>
+</ul>
+
+优质专线
+
+<ul>
+<li>月付：￥59/月，120G流量/月。</li>
+<li>季付：￥177/季，180G流量/月。</li>
+<li>年付：￥708/年，240G流量/月。</li>
+</ul>
+
+精品专线
+
+<ul>
+<li>月付：￥69/月，120G流量/月。</li>
+<li>季付：￥207/季，180G流量/月。</li>
+<li>年付：￥828/年，240G流量/月。</li>
+</ul>
+
+## 2. v2free
 
 最新地址：[w1.v2free.top](https://w1.v2free.top/auth/register?code=UO4o)
 
@@ -24,7 +66,7 @@
 ![image](https://raw.githubusercontent.com/winston779/v2free/main/w1.v2free.jpg)
 
 
-## 2. FASTLINK
+## 3. FASTLINK
 
 ### 简介
 
@@ -76,7 +118,7 @@
 
 ![image](https://raw.githubusercontent.com/winston779/clash/main/imgs/fastlink-speed.jpg)
 
-## 3. 速鹰666
+## 4. 速鹰666
 
 最新地址：[suying888.xyz](https://suying888.xyz/auth/register?code=V0Fy)
 
