@@ -45,7 +45,40 @@ WgetCloud 机场使用的是 Shadowsocks 协议，最近新增了SSR、V2ray、T
 <li>年付：￥828/年，240G流量/月。</li>
 </ul>
 
-## 2. v2free
+## 2. 速云梯
+
+最新地址：[suyunti55.com](https://suyunti55.com/auth/register?code=PBnq)
+
+### 简介
+
+速云梯提供海量 SSR/V2ray 翻墙协议节点，有国内中转和IPLC内网专线。IPLC专线不经过 GFW，即便是敏感时期，稳定性也有保证，不担心被封锁。速云梯机场节点都有标注倍率，使用时需要注意，高倍率节点一般更为稳定快速，低倍率节点适合日常刷网页使用，更为经济。
+
+### 特色
+
+* 支持SSR、V2ray节点
+* 国内中转节点
+* 解锁流媒体
+* 100GB+使用流量每月
+* IPLC专线节点（旗舰版）
+
+### 套餐列表
+
+|套餐|入门版|基础版|标准版|旗舰版|
+|----|----|----|----|----|
+|月付|￥15.9|￥25.9|￥35.9|￥55.9|
+|季付|￥47.7|￥77.7|￥107.7|￥167.7|
+|半年付|￥95.4|￥155.4|￥215.4|￥335.4|
+|年付|￥190.8|￥310.8|￥430.8|￥670.8|
+|两年付|￥381.6|￥621.6|￥861.6|￥1341.6|
+
+套餐区别：
+
+|入门版|基础版|标准版|旗舰版|
+|----|----|----|----|
+|100GB使用流量<br/>3个设备同时使用<br/>最高60M速率<br/>工单客服支持<br/>支持SSR、V2ray节点<br/>国内中转节点<br/>解锁流媒体<br/>可用入门版节点|200GB使用流量<br/>5个设备同时使用<br/>最高150M速率<br/>工单客服支持<br/>支持SSR、V2ray节点<br/>国内中转节点<br/>解锁流媒体<br/>可用入门版节点<br/>可用基础版节点|350GB使用流量<br/>8个设备同时使用<br/>最高300M速率<br/>工单客服支持<br/>支持SSR、V2ray节点<br/>国内中转节点<br/>解锁流媒体<br/>可用入门版节点<br/>可用基础版节点<br/>可用标准版节点|600GB使用流量<br/>16个设备同时使用<br/>不限制速率<br/>Telegram客服技术支持<br/>支持SSR、V2ray节点<br/>国内中转节点<br/>解锁流媒体<br/>可用入门版节点<br/>可用基础版节点<br/>可用标准版节点<br/>IPLC专线节点<br/>可用旗舰版节点(可用所有节点)|
+
+
+## 3. v2free
 
 最新地址：[w1.v2free.top](https://w1.v2free.top/auth/register?code=UO4o)
 
@@ -66,7 +99,7 @@ WgetCloud 机场使用的是 Shadowsocks 协议，最近新增了SSR、V2ray、T
 ![image](https://raw.githubusercontent.com/winston779/v2free/main/w1.v2free.jpg)
 
 
-## 3. FASTLINK
+## 4. FASTLINK
 
 ### 简介
 
@@ -118,7 +151,7 @@ WgetCloud 机场使用的是 Shadowsocks 协议，最近新增了SSR、V2ray、T
 
 ![image](https://raw.githubusercontent.com/winston779/clash/main/imgs/fastlink-speed.jpg)
 
-## 4. 速鹰666
+## 5. 速鹰666
 
 最新地址：[suying888.xyz](https://suying888.xyz/auth/register?code=V0Fy)
 
