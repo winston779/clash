@@ -13,7 +13,7 @@
 
 > 必须在 App Store 中切换苹果 id，请勿在系统设置中登录外区 id，可能泄漏隐私，可能导致手机锁定
 
-点击 App Store → 点击右上角头像 → 滑到页面底部，点击 退出登录 → 然后回到页面顶部，登录准备好的外区苹果 id
+点击 App Store → 点击右上角头像滑到页面底部，点击 退出登录 → 然后回到页面顶部，登录准备好的外区苹果 id
 
 ![image](https://raw.githubusercontent.com/winston779/clash/main/imgs/shadowrocket-1.jpeg)
 
@@ -27,7 +27,7 @@
 
 ## 5.通过订阅链接导入
 
-打开 Shadowrocket，点击底部导航栏的「设置」进入设置页面，随后往下划至最底部，进入「服务器订阅」子页面。
+打开 Shadowrocket，点击底部导航栏的「设置」进入设置页面，随后往下划至最底部，进入「服务器订阅」子页面。
 
 将「打开时更新」的开关 打开。
 
@@ -37,7 +37,7 @@
 
 ![image](https://raw.githubusercontent.com/winston779/clash/main/imgs/shadowrocket-4.jpeg)
 
-在「备注」中输入: 名称 ，随后在「URL」中粘贴上方机场中的订阅链接并保存。
+在「备注」中输入: 名称 ，随后在「URL」中粘贴机场中的订阅链接并保存。
 
 ![image](https://raw.githubusercontent.com/winston779/clash/main/imgs/shadowrocket-5.jpeg)
 
