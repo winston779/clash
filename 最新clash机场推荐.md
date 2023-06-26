@@ -5,7 +5,7 @@
 
 ## 1. wgetcloud
 
-最新地址：[wgetcloud.org](https://invite.wgetcloud.ltd/auth/register?code=3m4U)
+最新地址：[wgetcloud.org](https://clever99.com/j/wgetcloud)
 
 ### wgetcloud机场简介
 
@@ -47,7 +47,7 @@ WgetCloud 机场使用的是 Shadowsocks 协议，最近新增了SSR、V2ray、T
 
 ## 2. 速云梯
 
-最新地址：[suyunti55.com](https://suyunti55.com/auth/register?code=PBnq)
+最新地址：[suyunti55.com](https://clever99.com/j/suyunti)
 
 ### 简介
 
@@ -80,7 +80,7 @@ WgetCloud 机场使用的是 Shadowsocks 协议，最近新增了SSR、V2ray、T
 
 ## 3. wallless机场
 
-最新地址：[portal.wl-site5.com](https://portal.wl-site5.com/#/register?code=EhnwhvJe)
+最新地址：[portal.wl-site5.com](https://clever99.com/j/wallless)
 
 ### 简介
 
@@ -253,7 +253,7 @@ WallLess，原无界VPN（与轮子撞车而改名），又称WallLess加速器�
 
 ## 5. 速鹰666
 
-最新地址：[suying888.xyz](https://suying888.xyz/auth/register?code=V0Fy)
+最新地址：[suying888.xyz](https://clever99.com/j/suying666)
 
 ### 简介
 
