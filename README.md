@@ -18,3 +18,7 @@
 
 * [2023机场推荐](https://github.com/winston779/clash/blob/main/%E6%9C%80%E6%96%B0clash%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.md)
 * [免费机场推荐](https://github.com/winston779/clash/blob/main/%E5%85%8D%E8%B4%B9clash%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5.md)
+
+## 推荐阅读
+
+* [手把手教你如何科学上网](https://clever99.com/hands-on-with-proxy-internet)
