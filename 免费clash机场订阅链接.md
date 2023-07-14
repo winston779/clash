@@ -1,22 +1,36 @@
 
 # 免费clash机场订阅链接
 
-## 1. V2free
+推荐两个机场，有收费订阅的同时，还有免费的订阅地址，每天进行签到获取流量，如果你只是google查查资料或者外网看看新闻绝对是够用了。
 
-### 最新网址:
+都是正规机场，并不是网上那种半天或者一天需要更换订阅地址的。
 
-[https://w1.v2free.top](https://clever99.com/j/v2free)
+## 1. 免费机场：v2free机场
 
-### 介绍：
+机场地址：[v2free机场](https://clever99.com/j/v2free)
 
-欢迎来到 V2free
-您距离真正的互联网世界仅一步之遥
-我们为用户提供数据加密和网络代理服务，可用于突破某些地区的互联网封锁保护您的数据。
+### v2free机场免费节点
 
-使用V2free的服务后，您可无障碍访问 YouTube、Ins、Facebook、Google、Twitter 等网络服务。
+免费节点有流量限制，且延迟较高，推荐有条件尽量购买套餐。 免费节点需要每天签到增加流量。 免费用户5天不用不签到，流量会被自动清空，清空后可再签到获取流量。
 
-解锁流媒体：奈飞Netflix(奈飞等流媒体账号合租平台推荐)、动画疯、迪士尼+、Hulu、HBO-Go、HBO MAX、TVB、HKTV、ViuTV、BBC iPlayer、AbemaTV、DMM、Nicovideo、DAZN、Amazon Prime Video、FOX 等。
+v2free机场有全面的使用教程，如果体验不错，可以购买付费套餐。
 
-* 免费节点有流量限制，且延迟较高，推荐有条件尽量购买套餐。
-* 免费节点需要每天签到增加流量。
-* 免费用户5天不用不签到，流量会被自动清空，清空后可再签到获取流量
+### v2free机场免费节点测速
+
+![image](https://clever99.com/wp-content/uploads/2023/06/v2free.png)
+
+## 2. 免费机场：TLY机场
+
+机场地址：[TLY机场](https://clever99.com/j/tly)
+
+### TLY机场免费节点
+
+免费用户3天需签到一次，否则将暂停使用！VIP用户不受此限制，享受更多流量与节点！
+
+流量可以通过签到[随机获取100-500M流量]、购买套餐获得，流量用完停止使用。
+
+每间隔24小时可以签到一次，免费用户每3天必须签到一次，否则无法正常使用。
+
+### TLY机场免费节点测速
+
+![image](https://clever99.com/wp-content/uploads/2023/06/TLY%E6%9C%BA%E5%9C%BA.png)
