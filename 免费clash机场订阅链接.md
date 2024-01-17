@@ -19,7 +19,7 @@ v2free机场有全面的使用教程，如果体验不错，可以购买付费�
 
 ![image](https://clever99.com/wp-content/uploads/2023/06/v2free.png)
 
-## 2. 免费机场：飞云机场
+## 2. 免费机场：~~飞云机场~~ 已无法注册
 
 机场地址：[飞云机场](https://clever99.com/j/feiyun)
 
@@ -35,7 +35,7 @@ v2free机场有全面的使用教程，如果体验不错，可以购买付费�
 
 ![image](https://clever99.com/wp-content/uploads/2023/07/%E9%A3%9E%E4%BA%91.jpg)
 
-## 3. 免费机场：TLY机场
+## 3. 免费机场：~~TLY机场~~ 已无法打开
 
 机场地址：[TLY机场](https://clever99.com/j/tly)
 
